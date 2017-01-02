@@ -1,4 +1,4 @@
-# CSC 521 Fundamentals and Concepts of Programming Languages
+# Fundamentals and Concepts of Programming Languages
 
 ## Course Information
 
@@ -78,31 +78,30 @@ F – Not Acceptable Work: Absence of knowledge, incapable of carrying on a conv
 
 ## Course Schedule
 
-|Week |Date |Reading   | Topics|
---------------------------------
-|1    |1/23 |Chapter 1 | Introduction |
+| Week | Date | Reading     | Topics |
+| ---- | ---  | ---         | ---    |
+| 1    | 1/23 | Chapter 1   | Introduction |
+| 2    | 1/30 | Chapter 2   | Programming Language Syntax |
+| 3    | 2/6  | Chapter 2   | Programming Language Syntax |
+| 4    | 2/13 | Chapter 3   | Names, Scopes, and Bindings |
+| 5    | 2/20 |  | President's Day |
+| 6    | 2/27 | Chapter 4   | Semantic Analysis |
+| 7    | 3/6  | Chapter 4   | Semantic Analysis |
+| 8    | 3/13 |  | Midterm |
+| 9    | 3/20 | Chapter 6   | Control Flow |
+| 10   | 3/27 |  | Spring Recess |
+| 11   | 4/3  | Chapter 6   | Control Flow |
+| 12   | 4/10 | Chapter 7   | Data Type |
+| 13   | 4/17 | Chapter 8   | Subroutines and Control Abstraction |
+| 14   | 4/24 | Chapter 8   | Subroutines and Control Abstraction |
+| 15   | 5/1  | Chapter 9   | Data Abstraction and Object Orientation |
+| 16   | 5/8  | Chapter 9   | Data Abstraction and Object Orientation |
+| 17   | TBD  |    | Final Exam |
 
+The schedule is subject to change depending on the class dynamics.
 
-* Week 1: 1/23
-* Week 2: 1/30
-* Week 3: 2/6
-* Week 4: 2/13
-* Week 4: 2/20 President's Day
-* Week 5: 2/27
-* Week 6: 3/6
-* Week 7: 3/13
-* Week 8: 3/20
-* Week 9: 3/27 Spring Recess
-* Week 10: 4/3
-* Week 11: 4/10
-* Week 12: 4/17
-* Week 13: 4/24
-* Week 14: 5/1
-* Week 15: 5/8
-
-Midterm: 7:00pm - 8:30 pm, xxx, covers chapters xxx.
-
-Final Exam: 7:45pm - 9:45 pm, xxx, covers chapters xxx.
+* Midterm: 7:00pm - 8:30 pm, xxx, covers chapters xxx.
+* Final Exam: 7:45pm - 9:45 pm, xxx, covers chapters xxx.
 
 ## Academic Integrity
 
