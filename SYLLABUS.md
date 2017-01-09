@@ -2,10 +2,10 @@
 
 ## Logistics
 
-* Meeting time and location: Mondays, 7:00pm-9:45pm, TBD
+* Meeting time and location: Mondays, 7:00pm - 9:45pm, TBD
 * Instructor: John Tran
-* Office Hours: NSM TBD, Monday 5:00 - 7:00 pm or by appointment
-* Contact Information: johnjtran@me.com
+* Office Hours: NSM TBD, Monday 5:00pm - 7:00pm or by appointment
+* Contact Information: johnjtran@hotmail.com
 
 ## Course Information
 
@@ -68,8 +68,8 @@ Four homework will be given, which should be done individually.  For the program
 
 #### Exams
 
-* Midterm: 7:00pm - 8:30 pm, xxx, covers chapters xxx.
-* Final Exam: 7:45pm - 9:45 pm, xxx, covers chapters xxx.## Schedule
+* Midterm: 7:00pm - 8:30pm, March 13, covers chapters ---.
+* Final Exam: 7:45pm - 9:45pm, TBD, covers chapters ---.
 
 #### Class Participation
 
