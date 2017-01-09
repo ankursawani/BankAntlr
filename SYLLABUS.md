@@ -39,19 +39,19 @@ Additionally, reading assignments, e.g. papers and videos, will be provided.  St
 | 2    | 1/30 | Chapter 2   | Programming Language Syntax |
 | 3    | 2/6  | Chapter 2   | Programming Language Syntax |
 | 4    | 2/13 | Chapter 3   | Names, Scopes, and Bindings |
-| 5    | 2/20 |  | President's Day |
+| 5    | 2/20 | - | President's Day |
 | 6    | 2/27 | Chapter 4   | Semantic Analysis |
 | 7    | 3/6  | Chapter 4   | Semantic Analysis |
-| 8    | 3/13 |  | Midterm |
+| 8    | 3/13 | - | Midterm |
 | 9    | 3/20 | Chapter 6   | Control Flow |
-| 10   | 3/27 |  | Spring Recess |
+| 10   | 3/27 | - | Spring Recess |
 | 11   | 4/3  | Chapter 6   | Control Flow |
 | 12   | 4/10 | Chapter 7   | Data Type |
 | 13   | 4/17 | Chapter 8   | Subroutines and Control Abstraction |
 | 14   | 4/24 | Chapter 8   | Subroutines and Control Abstraction |
 | 15   | 5/1  | Chapter 9   | Data Abstraction and Object Orientation |
 | 16   | 5/8  | Chapter 9   | Data Abstraction and Object Orientation |
-| 17   | TBD  |    | Final Exam |
+| *    | TBD  | -  | Final Exam |
 
 The schedule is subject to change depending on the class dynamics.
 
@@ -73,7 +73,7 @@ Four homework will be given, which should be done individually.  For the program
 
 #### Class Participation
 
-Class participation is an important component of active learning.  Students are expected to attend class and participate in discussion.  Class participation contribution can make a difference between passing and failing final grade.
+Class participation is an important component of active learning.  Students are expected to attend class and participate in discussion.  Class participation contribution can make a difference between a passing and a failing final grade.
 
 ### Grading Metrics
 
