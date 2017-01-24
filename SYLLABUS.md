@@ -2,7 +2,7 @@
 
 ## Logistics
 
-* Meeting time and location: Mondays, 7:00pm - 9:45pm, TBD
+* Meeting time and location: Mondays, 7:00pm - 9:45pm, WHF144
 * Instructor: John Tran
 * Office Hours: NSM TBD, Monday 5:00pm - 7:00pm or by appointment
 * Contact Information: johnjtran@hotmail.com
@@ -57,19 +57,23 @@ The schedule is subject to change depending on the class dynamics.
 
 ## Evaluation
 
-* 50% Homework assignments
+* 50% Programming assignments
+  - 4 Homework assignments
+	- 1 Course project
 * 20% Midterm Exam
 * 20% Final Exam
 * 10% Class Participation
 
-#### Homework
+#### Programming Assignments
 
 Four homework will be given, which should be done individually.  For the programming part of the assignments, up to two students may collaborate; note that this information must be documented prior to submission.
 
+Completion of the course project is required for passing the class.
+
 #### Exams
 
-* Midterm: 7:00pm - 8:30pm, March 13, covers chapters ---.
-* Final Exam: 7:45pm - 9:45pm, TBD, covers chapters ---.
+* Midterm: 7:00pm - 8:30pm, March 13, covers chapters 1-4.
+* Final Exam: 7:45pm - 9:45pm, TBD, covers chapters 6-9.
 
 #### Class Participation
 
