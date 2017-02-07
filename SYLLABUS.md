@@ -4,7 +4,7 @@
 
 * Meeting time and location: Mondays, 7:00pm - 9:45pm, WHF144
 * Instructor: John Tran
-* Office Hours: NSM TBD, Monday 5:00pm - 7:00pm or by appointment
+* Office Hours: NSM E-115, Monday 5:00pm - 7:00pm or by appointment
 * Contact Information: johnjtran@hotmail.com
 
 ## Course Information
