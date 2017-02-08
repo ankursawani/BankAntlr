@@ -58,8 +58,8 @@ The schedule is subject to change depending on the class dynamics.
 ## Evaluation
 
 * 50% Programming assignments
-  - 4 Homework assignments
-	- 1 Course project
+    * 4 Homework assignments
+    * 1 Course project
 * 20% Midterm Exam
 * 20% Final Exam
 * 10% Class Participation
