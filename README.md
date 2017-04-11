@@ -10,6 +10,8 @@ Please refer to the [syllabus](SYLLABUS.md) for more information on the administ
 
 Important course news and announcements are posted here, so please check this `README.md` file regularly.
 
+- 4/3/2017 Please take a look at [Calc](Calc) example we did in class.
+
 - 3/21/2017 
   - [Homework 2](Homework2.md) has been posted.  
   - **Regrade** If you would like your homework or exam regraded, please submit an formal request via email stating `problem #` and rationale why you should get a higher grade.
@@ -20,4 +22,5 @@ Important course news and announcements are posted here, so please check this `R
   - Guy Steele's [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0). Additionally his paper [Growing a Language](https://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf) can serve as a reference.
 
   - [ANTLR 4 with Terence Parr](https://youtu.be/q8p1voEiu8Q?list=PLtYmoJ52atuWWox_hXnQgXhtf_MD4al-p)
+
 
