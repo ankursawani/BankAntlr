@@ -10,6 +10,12 @@ Please refer to the [syllabus](SYLLABUS.md) for more information on the administ
 
 Important course news and announcements are posted here, so please check this `README.md` file regularly.
 
+- 4/18/2017 Please watch the following videos for the next class:
+  - Fletcher, Angus. [Emulators, Immutability, and Time Travel](https://youtu.be/fiK0SmaqN20)
+  - Nasser, Ramsey. [Symbolic Assembly: Using Clojure to Meta-program Bytecode](https://youtu.be/eDad1pvwX34)
+
+Please be aware that these two talks are **very** [clojure](clojure.org) centric.  So you might want to have a little bit of background on functional programming beforehand.  Regardless, for the next class I will talk more about functional programming.
+
 - 4/3/2017 Please take a look at [Calc](Calc) example we did in class.
 
 - 3/21/2017 
