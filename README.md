@@ -10,6 +10,10 @@ Please refer to the [syllabus](SYLLABUS.md) for more information on the administ
 
 Important course news and announcements are posted here, so please check this `README.md` file regularly.
 
+- 5/7/2017 Please watch the following videos for the next class:
+  - Bennett, Andrew [Creating, Coding and Compiling a Compiler with LLVM](https://youtu.be/L6Gz1hJZECg)
+  - Holewinshi, Justin. [PTX Back-End: GPU Computing with LLVM](https://youtu.be/Ux3F5MKuPjI)
+  - Keep, Andy. [Writing a Nanopass Compiler](https://youtu.be/Os7FE3J-U5Q) This is not related to LLVM but Andy does talk about multipass compiler techniques, which is essential for LLVM.
 - 4/18/2017 Please watch the following videos for the next class:
   - Fletcher, Angus. [Emulators, Immutability, and Time Travel](https://youtu.be/fiK0SmaqN20)
   - Nasser, Ramsey. [Symbolic Assembly: Using Clojure to Meta-program Bytecode](https://youtu.be/eDad1pvwX34)
