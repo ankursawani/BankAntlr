@@ -99,12 +99,13 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 	public Integer visitHouseSell(LabeledBankParser.HouseSellContext ctx)
 	{
 		String id = ctx.ID().getText();
-		int currentbalance = symTable.get(id);
+		
 		Random rnd = new Random();
 		int houseprice = (rnd.nextInt(5)+1) * 100000;
 		int houseInterest = Integer.parseInt(ctx.INT().getText());
 		double newhouseprice = (1 + (houseInterest * .01)) * (houseprice);
-		//symTable.put(id, current balance + ((int)newhouseprice));
+		int currentbalance = symTable.get(id) + (int)(newhouseprice);
+		symTable.put(id, currentbalance);
 		
 		
 		IR.addCode(  id + " = " + symTable.get(id) + " + "  + (int)(newhouseprice) + ";");
