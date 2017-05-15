@@ -10,25 +10,22 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 	Map<String,Integer> symTable = new HashMap<String, Integer>();
 
 	
-		//IR.addCode("");
+		
 	public Integer visitWithExpr(LabeledBankParser.WithExprContext ctx)
 	{
-	
 		
 	
 		try
 		{
 			
 		
-		System.out.println("Here we are visiting the Deposit Expression.");
-		int deposit = Integer.parseInt(ctx.INT().getText());
+		
 		String id = ctx.ID().getText();
-		int a = symTable.get(id) + deposit;
 		
-		IR.addCode(id + "= " + a + ";");
-	
 		
-				return 0;
+		
+		
+		return 0;
 		}
 		
 		catch (Exception e)
@@ -45,10 +42,14 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 		System.out.println("Here we are visiting the Deposit Expression.");
 		int deposit = Integer.parseInt(ctx.INT().getText());
 		String id = ctx.ID().getText();
+		
 		int a = symTable.get(id) + deposit;
+		symTable.put(id, a);
+		
+		System.out.println(id + " = " + a);
+		
 		
 		IR.addCode(id + "= " + a + ";");
-	
 		
 		return 0;	
 		
@@ -67,10 +68,10 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 		
 			if (symTable.containsKey(id)) {
 				int a = symTable.get(id);
-				//int a = (String)symTable.get(id);
 				
-				IR.addCode( "Balance for " + id + ":" + a);
-				IR.addCode("ankur = 4;");
+				IR.addCode("System.out.println(" + '"' + "Balance for " + id + " = " + a + "." + '"' + ");");
+				
+				
 			}
 			else
 				System.out.println("didn'g work");
@@ -85,7 +86,7 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 
 		
 	}
-	
+	/* */
 	public Integer visitAddPerson(LabeledBankParser.AddPersonContext ctx)
 	{
 		String id = ctx.ID().getText();
@@ -97,11 +98,19 @@ public class BankVisitor extends test58BaseVisitor<Integer>{
 	
 	public Integer visitHouseSell(LabeledBankParser.HouseSellContext ctx)
 	{
-		
+		String id = ctx.ID().getText();
+		int currentbalance = symTable.get(id);
 		Random rnd = new Random();
-		int housePrice = (rnd.nextInt(5)+1) * 100000;
+		int houseprice = (rnd.nextInt(5)+1) * 100000;
 		int houseInterest = Integer.parseInt(ctx.INT().getText());
-		System.out.println("House Interest: " + houseInterest);
+		double newhouseprice = (1 + (houseInterest * .01)) * (houseprice);
+		//symTable.put(id, current balance + ((int)newhouseprice));
+		
+		
+		IR.addCode(  id + " = " + symTable.get(id) + " + "  + (int)(newhouseprice) + ";");
+		IR.addCode("System.out.println(" + '"' + id + " just sold a house for $" + (int)newhouseprice + "!" +  '"' + ");");
+		
+		
 		
 		return 0;
 		
