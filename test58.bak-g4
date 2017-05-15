@@ -1,0 +1,47 @@
+grammar test58;
+
+
+
+
+prog:   start+;
+ 
+start:withExpr	
+	|depoExpr	
+	|balExpr	
+	|NEWLINE
+	|HouseSell
+	|AddPerson	
+	;	
+	
+withExpr:
+	ID ' ' INT ' ' SUBOP
+	;
+
+depoExpr:
+	ID ' ' INT ' ' ADDOP
+	;
+
+balExpr:
+	ID
+	;
+	
+HouseSell:
+	ID ' ' INT
+	;
+	
+AddPerson:
+	ID
+	;
+
+ID:('a'..'z'|'A'..'Z')+ ;
+ADDOP: '+';
+SUBOP: '-';
+INT:'0'..'9'+ ;
+NEWLINE:'\r'? '\n' ;
+
+
+
+	
+
+
+
